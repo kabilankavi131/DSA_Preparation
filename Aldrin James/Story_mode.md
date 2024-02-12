@@ -1,0 +1,1 @@
+it was 11:00 in the night ,there heared a cry sound of baby .it was the birth of an enthusiastic coder .he was named Kabilan.but some villains are trying to stop him from enhancing his skill from coding because he is the founder of   the large futuristic tech company .now our task is to define his future to make him the best coder.
