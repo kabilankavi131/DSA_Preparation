@@ -1,4 +1,4 @@
-package Kabilan.Array.onedarray;
+package Kabilan.Array.Onedarray;
 
 public class sortings {
     static int[] bubbleSort(int[] marks, int len) {

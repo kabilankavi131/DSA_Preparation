@@ -1,4 +1,4 @@
-package Kabilan.Array.onedarray;
+package Kabilan.Array.Onedarray;
 
 class traversal {
     public static void main(String[] args) {

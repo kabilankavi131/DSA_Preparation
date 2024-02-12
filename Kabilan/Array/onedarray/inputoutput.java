@@ -1,4 +1,4 @@
-package Kabilan.Array.onedarray;
+package Kabilan.Array.Onedarray;
 
 import java.util.Scanner;
 

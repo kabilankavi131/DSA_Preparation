@@ -1,4 +1,4 @@
-package Kabilan.Array.onedarray;
+package Kabilan.Array.Onedarray;
 
 public class linearsearch {
     public static void main(String[] args) {
