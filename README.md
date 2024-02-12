@@ -47,7 +47,7 @@ Check out the [Resources.md](Resources.md) file for additional learning material
 Special thanks to our collaborators:
 - [@Kabilan](https://github.com/kabilankavi131)
 - [@Aldrin James](https://github.com/aldrinkodes)
-- [@Sathwik Vuppala](https://github.com/Friend3)
+- [@Sathwik Vuppala](https://github.com/VuppalaSathwik)
 
 ## Discussions
 Engage in discussions by opening issues for questions, clarifications, or general topics related to DSA preparation. Let's learn from each other and grow together!
